@@ -5,7 +5,7 @@ for (var i=1; i<21; i++){
     }
 }
 // Decreasing Multiples of 3
-for (var i=100; i>0; i--){
+for (var i=100; i>-1; i--){
 if(i%3==0){
     console.log (i);
     }
